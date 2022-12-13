@@ -1,2 +1,2 @@
 # Data-Science
-Machine learning notebooks
+EDA and Machine learning notebooks.
